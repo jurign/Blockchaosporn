@@ -1,3 +1,3 @@
-Easylist Adblock and hosts files
+Easylist Adblock and hosts
 
 Source https://dsi.ut-capitole.fr/blacklists/
