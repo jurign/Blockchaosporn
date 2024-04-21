@@ -8,6 +8,6 @@ https://www.bing.com/search?form=MIDOR1&PC=SIE117&PTAG=SYS1000000&q=^porn^
 https://my.rusporn.porn/^bdsm^
 /bdsm
 ||my.rusporn.porn^$third-party
-domain=my.rusporn.porn$rewrite=abp-resource:blank-text
-my.rusporn.porn##
+domain=my.rusporn.porn$image
+my.rusporn.porn$image
 domain=mastodon.social$rewrite=abp-resource:blank-text
