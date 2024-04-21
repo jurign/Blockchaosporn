@@ -10,4 +10,4 @@ https://my.rusporn.porn/^bdsm^
 ||my.rusporn.porn^$third-party
 domain=my.rusporn.porn$rewrite=abp-resource:blank-text
 my.rusporn.porn##
-mastodon.social##
+domain=mastodon.social$rewrite=abp-resource:blank-text
